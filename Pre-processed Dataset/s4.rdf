@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:Std-004="file:///csvs/Std-004.csv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:j.0="http://topbraid.org/tables#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="file:///csvs/Std-004.csv" > 
+  <rdf:Description rdf:about="#Row-15">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comp. Organization &amp; Assembly Language</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-32">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">32</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Database Systems</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-46">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intro to Info. &amp; Comm. Technologies</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-5">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English Composition &amp; Comprehension</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-19">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comp. Organization &amp; Assembly Language Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-42">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">42</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 2</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-36">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">36</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Networks</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-22">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Structures &amp; Algorithms</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-39">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">39</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Architecture</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-1">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Applied Physics</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-12">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Communication &amp; Presentation Skills</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-9">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Logic Design Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-29">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Systems</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-47">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">47</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 4</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-37">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">37</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software Engineering</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-33">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">33</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design &amp; Analysis of Algorithms</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-18">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linear Algebra</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-4">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">D+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Fundamentals Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-43">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">43</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fund.of Probabilis Programming</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-14">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Discrete Structures</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#points">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</j.0:columnIndex>
+    <rdfs:label>points</rdfs:label>
+    <rdfs:domain rdf:resource="#Std-004"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-50">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</j.0:rowIndex>
+    <Std-004:rmk rdf:datatype="http://www.w3.org/2001/XMLSchema#string">R-1</Std-004:rmk>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Information Security</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-51">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">51</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Final Year Project</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#grade">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</j.0:columnIndex>
+    <rdfs:label>grade</rdfs:label>
+    <rdfs:domain rdf:resource="#Std-004"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-23">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theory of Automata</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-38">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">38</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technical &amp; Business Writing</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#semester">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:columnIndex>
+    <rdfs:label>semester</rdfs:label>
+    <rdfs:domain rdf:resource="#Std-004"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-0">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English Composition &amp; Comprehension Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-28">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Database Systems Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-8">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Differential Equations</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-13">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</j.0:rowIndex>
+    <Std-004:rmk rdf:datatype="http://www.w3.org/2001/XMLSchema#string">R-1</Std-004:rmk>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Fundamentals Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#rmk">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</j.0:columnIndex>
+    <rdfs:label>rmk</rdfs:label>
+    <rdfs:domain rdf:resource="#Std-004"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-30">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Management Related</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-17">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Oriented Programming Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-34">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">34</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Artificial Intelligence</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <owl:imports rdf:resource="http://topbraid.org/tables"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-48">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">48</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 5</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#type">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</j.0:columnIndex>
+    <rdfs:label>type</rdfs:label>
+    <rdfs:domain rdf:resource="#Std-004"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-44">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Information Security</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#creditHour">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</j.0:columnIndex>
+    <rdfs:label>creditHour</rdfs:label>
+    <rdfs:domain rdf:resource="#Std-004"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Std-004">
+    <j.0:sheetIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:sheetIndex>
+    <rdfs:label>Std-004</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-7">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Logic Design</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-40">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Networks Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-24">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Economy Related</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-3">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Fundamentals</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-27">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domain CS Core</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-20">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Management Related</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-10">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</j.0:rowIndex>
+    <Std-004:rmk rdf:datatype="http://www.w3.org/2001/XMLSchema#string">R-1</Std-004:rmk>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Fundamentals</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-31">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Systems Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-16">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Oriented Programming</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-35">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.33</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 1</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-49">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">49</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Management Related</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-45">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 3</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-41">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">41</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A+</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Final Year Project</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-6">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Islamic Studies/ Ethics</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#courseName">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</j.0:columnIndex>
+    <rdfs:label>courseName</rdfs:label>
+    <rdfs:domain rdf:resource="#Std-004"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-2">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calculus &amp; Analytical Geometry</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-25">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Probability &amp; Statistics</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-21">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social Science Related</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-26">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Domain CS Core Lab</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-11">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</j.0:rowIndex>
+    <Std-004:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</Std-004:type>
+    <Std-004:points rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3.67</Std-004:points>
+    <Std-004:grade rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A-</Std-004:grade>
+    <Std-004:creditHour rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</Std-004:creditHour>
+    <Std-004:courseName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pakistan Studies</Std-004:courseName>
+    <Std-004:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</Std-004:semester>
+    <rdf:type rdf:resource="#Std-004"/>
+  </rdf:Description>
+</rdf:RDF>
+
+<!-- Created with TopBraid -->

@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:plan="file:///csvs/plan.csv#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:j.0="http://topbraid.org/tables#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="file:///csvs/plan.csv" > 
+  <rdf:Description rdf:about="#Row-64">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">64</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design &amp; Analysis of Algorithms</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-7">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Fundamentals Lab</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Oriented Programming Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-59">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">59</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compiler Construction</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-45">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">45</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-0">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Introduction to Info. &amp; Comm. Technologies</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-12">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-49">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">49</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-26">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">26</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Supporting</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-32">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">32</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Discrete Structures</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Artificial Intelligence Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-3">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Applied Physics</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-69">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">69</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Foreign Language </plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-73">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">73</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Economy Related</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-16">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">16</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Oriented Programming Lab</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Structures &amp; Algorithms Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-22">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">22</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linear Algebra</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-36">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">36</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 2</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-54">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">54</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Differential Equations </plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Supporting </plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-8">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Applied Physics</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Logic Design</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-70">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">70</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social Service</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-48">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">48</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Islamic Studies/ Ethics</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-65">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">65</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parallel &amp; Distributed Computing</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-58">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">58</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Numerical Computing</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Supporting </plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-50">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">50</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-13">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">13</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comp. Organization &amp; Assembly Language</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-44">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">44</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 5</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-40">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">40</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Final Year Project</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-41">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">41</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-33">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">33</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Networks</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-60">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">60</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comp. Organization &amp; Assembly Language</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#creditHours">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</j.0:columnIndex>
+    <rdfs:label>creditHours</rdfs:label>
+    <rdfs:domain rdf:resource="#plan"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-4">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Fundamentals Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-23">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">23</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theory of Automata</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-68">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">68</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theory of Automata</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="">
+    <owl:imports rdf:resource="http://topbraid.org/tables"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-17">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">17</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Professional Practices</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-27">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">27</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Structures &amp; Algorithms</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Systems</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-55">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">55</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multi-variate Calculus</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Supporting </plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#plan">
+    <j.0:sheetIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:sheetIndex>
+    <rdfs:label>plan</rdfs:label>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-37">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">37</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technical &amp; Business Writing</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-28">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">28</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Structures &amp; Algorithms</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Systems Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-9">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Logic Design Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-57">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">57</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theory of Programming Languages</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Supporting </plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-66">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">66</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Artificial Intelligence</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-51">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">51</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-10">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English Composition &amp; Comprehension</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Communication &amp; Presentation Skills</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#semester">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">0</j.0:columnIndex>
+    <rdfs:label>semester</rdfs:label>
+    <rdfs:domain rdf:resource="#plan"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-14">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">14</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comp. Organization &amp; Assembly Language Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-31">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">31</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Discrete Structures</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Artificial Intelligence</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-2">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English Composition &amp; Comprehension</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#preRequisite">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</j.0:columnIndex>
+    <rdfs:label>preRequisite</rdfs:label>
+    <rdfs:domain rdf:resource="#plan"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-47">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">47</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Information Security</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-5">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calculus &amp; Analytical Geometry</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-61">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">61</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comp. Organization &amp; Assembly Language Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-34">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">34</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Computer Networks Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-42">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">42</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Operating Systems</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parallel &amp; Distributed Computing</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-38">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">38</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 3</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-24">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">24</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-20">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">20</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Structures &amp; Algorithms</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Database Systems</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-52">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">52</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-71">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">71</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Management Related</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-18">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">18</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Supporting</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-56">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">56</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graph Theory</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Supporting </plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-29">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">29</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Software Engineering</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-67">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">67</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Artificial Intelligence Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#courseTitle">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <j.0:columnIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</j.0:columnIndex>
+    <rdfs:label>courseTitle</rdfs:label>
+    <rdfs:domain rdf:resource="#plan"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-11">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Probability &amp; Statistics</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-30">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">30</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Supporting</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-15">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">15</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Oriented Programming</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Structures &amp; Algorithms</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-63">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">63</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Logic Design Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-46">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">46</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Final Year Project</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-6">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Fundamentals</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Object Oriented Programming</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-1">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Programming Fundamentals</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-35">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">35</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 1</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-62">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">62</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Digital Logic Design</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Core</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-39">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">39</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective 4</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-25">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">25</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Theory of Automata</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Compiler Construction</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-43">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">43</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pakistan Studies</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-53">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">53</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CS Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-21">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">21</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Structures &amp; Algorithms Lab</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Database Systems Lab</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-19">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">19</j.0:rowIndex>
+    <plan:preRequisite rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Data Structures &amp; Algorithms</plan:preRequisite>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Design &amp; Analysis of Algorithms</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Row-72">
+    <j.0:rowIndex rdf:datatype="http://www.w3.org/2001/XMLSchema#int">72</j.0:rowIndex>
+    <plan:creditHours rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</plan:creditHours>
+    <plan:courseTitle rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Social Science Related</plan:courseTitle>
+    <plan:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">University Elective</plan:semester>
+    <rdf:type rdf:resource="#plan"/>
+  </rdf:Description>
+</rdf:RDF>
+
+<!-- Created with TopBraid -->

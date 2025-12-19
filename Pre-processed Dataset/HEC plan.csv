@@ -1,0 +1,54 @@
+CourseGroup,CourseTitle,CreditHour
+Computing - Core,Programming Fundamentals,3
+Computing - Core,Object Oriented Programming,3
+Computing - Core,Data Structures & Algorithms,3
+Computing - Core,Discrete Structures,3
+Computing - Core,Operating Systems,3
+Computing - Core,Database Systems,3
+Computing - Core,Software Engineering,3
+Computing - Core,Computer Networks,3
+Computing - Core,Information Security,3
+Computing - Core,Final Year Project ,6
+Computing - Core,Programming Fundamentals Lab,1
+Computing - Core,Object Oriented Programming Lab,1
+Computing - Core,Data Structures & Algorithms Lab,1
+Computing - Core,Operating Systems Lab,1
+Computing - Core,Database Systems Lab,1
+Computing - Core,Computer Networks Lab,1
+Mathematics & Science Foundation,Calculus & Analytical Geometry,3
+Mathematics & Science Foundation,Probability & Statistics,3
+Mathematics & Science Foundation,Linear Algebra,3
+Mathematics & Science Foundation,Applied Physics,3
+CS Elective,CS Elective 1,3
+CS Elective,CS Elective 2,3
+CS Elective,CS Elective 3,3
+CS Elective,CS Elective 4,3
+CS Elective,CS Elective 5,3
+CS Supporting,Differential Equations,3
+CS Supporting,Multi-variate Calculus,3
+CS Supporting,Graph Theory,3
+CS Supporting,Theory of Programming Languages,3
+CS Supporting,Numerical Computing,3
+CS Core,Compiler Construction,3
+CS Core,Comp. Organization & Assembly Language,3
+CS Core,Comp. Organization & Assembly Language Lab,1
+CS Core,Digital Logic Design,3
+CS Core,Digital Logic Design Lab,1
+CS Core,Design & Analysis of Algorithms,3
+CS Core,Parallel & Distributed Computing,3
+CS Core,Artificial Intelligence,3
+CS Core,Artificial Intelligence Lab,1
+CS Core,Theory of Automata,3
+General Education,English Composition & Comprehension,3
+General Education,Technical & Business Writing,3
+General Education,Communication & Presentation Skills,3
+General Education,Professional Practices,3
+General Education,Intro to Info. & Comm. Technologies,2
+General Education,Pakistan Studies,2
+General Education,Islamic Studies/ Ethics,2
+General Education,Intro to Info. & Comm. Technologies Lab,1
+University Elective,Foreign Language,1
+University Elective,Social Service,2
+University Elective,Management Related,3
+University Elective,Social Science Related,3
+University Elective,Economy Related,3

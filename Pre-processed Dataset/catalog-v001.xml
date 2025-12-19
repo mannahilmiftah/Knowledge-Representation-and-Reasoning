@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1671036393753" name="file:///csvs/Std-001.csv" uri="s1.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1671036393753" name="file:///csvs/Std-002.csv" uri="s2.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1671036393753" name="file:///csvs/Std-003.csv" uri="s3.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1671036393753" name="file:///csvs/Std-004.csv" uri="s4.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1671036393753" name="duplicate:file:///csvs/plan.csv" uri="plan2.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1671036393753" name="duplicate:file:///csvs/plan.csv" uri="proposedPlan.rdf"/>
+    </group>
+</catalog>
