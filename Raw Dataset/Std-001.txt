@@ -1,0 +1,65 @@
+Fall 2017
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS101	Intro to Computing	3	C-	1.67	C	
+SL101	English Language Lab	1	C	2.00	C	
+SS203	Professional Ethics	3	A	4.00	C	
+EE182	Basic Electronics	3	B	3.00	C	
+MT101	Calculus - I	3	C	2.00	C	
+SS101	English Language	3	C	2.00	C	
+CL101	Intro to Comp Lab	1	C+	2.33	C	
+Spring 2018
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+MT115	Calculus - II	3	A-	3.67	C	
+SS113	Pakistan Studies	3	B+	3.33	C	
+EE227	Digital Logic Design	3	B-	2.67	C	
+CL103	Computer Prog Lab	1	B-	2.67	C	
+EL227	DLD Lab	1	A-	3.67	C	
+SS122	English Composition	3	C	2.00	C	
+CS103	Computer Programming	3	C	2.00	C	
+Fall 2018
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+SS118	Psychology	3	A	4.00	E	
+CS201	Data Structures	3	D+	1.33	C	
+EE213	COAL	3	D	1.00	C	
+EL213	COAL Lab	1	A-	3.67	C	
+CS211	Discrete Structures	3	C+	2.33	C	
+MT104	Linear Algebra	3	C	2.00	C	
+Spring 2019
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+SS135	Micro Economics	3	A	4.00	E	
+MT206	Probability and Stat	4	B+	3.33	C	
+CS205	Operating Systems	3	A-	3.67	C	
+CS301	Theory of Automata	3	D	1.00	C	
+CL205	Operating Sys Lab	1	A-	3.67	C	
+MT303	Operations Research	3	A	4.00	E	
+Fall 2019
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+MG220	Marketing Management	3	B-	2.67	E	
+CL203	Database Systems Lab	1	C-	1.67	C	
+CL309	OOAD Lab	1	B+	3.33	C	
+CS203	Database Systems	3	A-	3.67	C	
+EE204	Comp Architecture	3	C+	2.33	C	
+CS309	OOAD	3	B-	2.67	C	
+CS302	DA of Algorithms	3	C+	2.33	C	
+Spring 2020
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS307	Computer Networks	3	C	2.00	C	
+CS317	Info Retrieval	3	S	0.00	E	
+CL307	Comp Networks Lab	1	A+	4.00	C	
+CS303	Software Engineering	3	B-	2.67	C	
+CS401	Artif Intelligence	3	S	0.00	C	
+SS108	TBW	3	S	0.00	C	
+Fall 2020
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS449	Prof Issues in IT	3	B+	3.33	C	
+CS446	Info Sys Security	3	C+	2.33	E	
+CS406	Web Programming	3	B	3.00	E	
+CS491	Project - I	3	A-	3.67	C	
+CS422	Human Comp Int	3	D+	1.33	C	
+Spring 2021
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS492	Project - II	3	A	4.00	C	
+CS482	IBCC	3	A-	3.67	E	
+CS402	Compiler Construction	3	B+	3.33	E	
+CS423	Info Proc Techniques	3	C	2.00	E	
+MG402	Strategic Management	3	A-	3.67	E	

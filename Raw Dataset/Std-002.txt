@@ -1,0 +1,65 @@
+Fall 2017
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+SS101	English Language	3	A+	4.00	C	
+CL101	Intro to Comp Lab	1	A+	4.00	C	
+MT101	Calculus - I	3	A-	3.67	C	
+SL101	English Language Lab	1	A+	4.00	C	
+SS111	Islam and Relig Std	3	A-	3.67	C	
+CS101	Intro to Computing	3	A+	4.00	C	
+EE182	Basic Electronics	3	A	4.00	C	
+Spring 2018
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+SS122	English Composition	3	A-	3.67	C	
+EL227	DLD Lab	1	A+	4.00	C	
+MT115	Calculus - II	3	A	4.00	C	
+EE227	Digital Logic Design	3	A-	3.67	C	
+SS113	Pakistan Studies	3	A-	3.67	C	
+CS103	Computer Programming	3	A	4.00	C	
+CL103	Computer Prog Lab	1	A	4.00	C	
+Fall 2018
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS211	Discrete Structures	3	A+	4.00	C	
+MT104	Linear Algebra	3	A	4.00	C	
+EL213	COAL Lab	1	A	4.00	C	
+CS201	Data Structures	3	A+	4.00	C	
+MG103	Finance and Accounting	3	A-	3.67	E	
+EE213	COAL	3	A	4.00	C	
+Spring 2019
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+MT303	Operations Research	3	A+	4.00	E	
+SS118	Psychology	3	B	3.00	E	
+CS301	Theory of Automata	3	A	4.00	C	
+CL205	Operating Sys Lab	1	A	4.00	C	
+CS205	Operating Systems	3	A	4.00	C	
+MT206	Probability and Stat	4	A	4.00	C	
+Fall 2019
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS203	Database Systems	3	A+	4.00	C	
+CS302	DA of Algorithms	3	B+	3.33	C	
+CL203	Database Systems Lab	1	B+	3.33	C	
+MG223	Fund of Management	3	B+	3.33	E	
+EE204	Comp Architecture	3	A	4.00	C	
+CS309	OOAD	3	B+	3.33	C	
+CL309	OOAD Lab	1	A	4.00	C	
+Spring 2020
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS303	Software Engineering	3	A-	3.67	C	
+CS317	Info Retrieval	3	A-	3.67	E	
+CL307	Comp Networks Lab	1	B-	2.67	C	
+CS307	Computer Networks	3	B	3.00	C	
+SS108	TBW	3	A+	4.00	C	
+CS401	Artif Intelligence	3	A-	3.67	C	
+Fall 2020
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS422	Human Comp Int	3	B+	3.33	C	
+CS491	Project - I	3	A+	4.00	C	
+CS446	Info Sys Security	3	A-	3.67	E	
+CS449	Prof Issues in IT	3	A-	3.67	C	
+CS482	IBCC	3	A-	3.67	E	
+Spring 2021
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS423	Info Proc Techniques	3	B+	3.33	E	
+CS499	Intro to Cloud Comp	3	A	4.00	E	
+MG402	Strategic Management	3	A-	3.67	E	
+CS492	Project - II	3	A+	4.00	C	
+CS452	VT Rec.	3	A-	3.67	E	

@@ -1,0 +1,68 @@
+Fall 2016
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+SL101	English Language Lab	1	B+	3.33	C	
+EE182	Basic Electronics	3	D+	1.33	C	
+MT101	Calculus - I	3	B-	2.67	C	
+CS101	Intro to Computing	3	F	0.00	C	
+CL101	Intro to Comp Lab	1	D+	1.33	C	
+SS101	English Language	3	B+	3.33	C	
+SS111	Islam and Relig Std	3	C-	1.67	C	
+Spring 2017
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+EE227	Digital Logic Design	3	A+	4.00	C	
+MT115	Calculus - II	3	B	3.00	C	
+EL227	DLD Lab	1	A-	3.67	C	
+CS101	Intro to Computing	3	C+	2.33	C	R-1
+SS113	Pakistan Studies	3	A-	3.67	C	
+SS122	English Composition	3	A	4.00	C	
+CL101	Intro to Comp Lab	1	B-	2.67	C	R-1
+Fall 2017
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS211	Discrete Structures	3	B-	2.67	C	
+EE213	COAL	3	C-	1.67	C	
+CS103	Computer Programming	3	C+	2.33	C	
+CL103	Computer Prog Lab	1	A	4.00	C	
+MT104	Linear Algebra	3	A-	3.67	C	
+EL213	COAL Lab	1	A	4.00	C	
+MG220	Marketing Management	3	C-	1.67	E	
+Spring 2018
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+SS118	Psychology	3	C	2.00	E	
+CS201	Data Structures	3	C+	2.33	C	
+CS301	Theory of Automata	3	C	2.00	C	
+MT211	Statistical Methods	3	C	2.00	E	
+MT206	Probability and Stat	4	B	3.00	C	
+Fall 2018
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CL309	OOAD Lab	1	A-	3.67	C	
+CS309	OOAD	3	C+	2.33	C	
+CL203	Database Systems Lab	1	B-	2.67	C	
+CS205	Operating Systems	3	B-	2.67	C	
+MG223	Fund of Management	3	B	3.00	E	
+CL205	Operating Sys Lab	1	B+	3.33	C	
+CS203	Database Systems	3	B	3.00	C	
+CS302	DA of Algorithms	3	B-	2.67	C	
+Spring 2019
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS401	Artif Intelligence	3	B+	3.33	C	
+CS317	Info Retrieval	3	C+	2.33	E	
+CS307	Computer Networks	3	C-	1.67	C	
+CS303	Software Engineering	3	B-	2.67	C	
+SS108	TBW	3	A-	3.67	C	
+EE204	Comp Architecture	3	C	2.00	C	
+CL307	Comp Networks Lab	1	B	3.00	C	
+Fall 2019
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS491	Project - I	3	A+	4.00	C	
+CS449	Prof Issues in IT	3	C+	2.33	C	
+CS4100	Fund.of Probabilis Programming	3	B	3.00	E	
+CS446	Info Sys Security	3	C-	1.67	E	
+CS422	Human Comp Int	3	C	2.00	C	
+Spring 2020
+Code	Course Name	Cr.Hrs.	Grade	Points	Type	Rmk
+CS423	Info Proc Techniques	3	S	0.00	E	
+CS406	Web Programming	3	S	0.00	E	
+CS481	Data Sc.	3	S	0.00	E	
+MG407	International HR Mgmt	3	S	0.00	E	
+CS446	Info Sys Security	3	A	4.00	E	R-1
+CS492	Project - II	3	A+	4.00	C	
